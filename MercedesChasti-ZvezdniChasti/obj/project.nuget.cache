@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "bL8z43OjWGI=",
+  "dgSpecHash": "3buO9FRRs7Q=",
   "success": true,
-  "projectFilePath": "C:\\Users\\nikif\\Desktop\\DataBase-master\\MercedesChasti-ZvezdniChasti\\MercedesChasti-ZvezdniChasti.csproj",
+  "projectFilePath": "C:\\Users\\nikif\\Desktop\\Zvezdni Chasti DI\\MercedesChasti-ZvezdniChasti\\MercedesChasti-ZvezdniChasti.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\nikif\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\nikif\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",

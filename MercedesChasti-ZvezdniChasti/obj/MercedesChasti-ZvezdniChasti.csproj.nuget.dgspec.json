@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\nikif\\Desktop\\DataBase-master\\MercedesChasti-ZvezdniChasti\\MercedesChasti-ZvezdniChasti.csproj": {}
+    "C:\\Users\\nikif\\Desktop\\Zvezdni Chasti DI\\MercedesChasti-ZvezdniChasti\\MercedesChasti-ZvezdniChasti.csproj": {}
   },
   "projects": {
-    "C:\\Users\\nikif\\Desktop\\DataBase-master\\MercedesChasti-ZvezdniChasti\\MercedesChasti-ZvezdniChasti.csproj": {
+    "C:\\Users\\nikif\\Desktop\\Zvezdni Chasti DI\\MercedesChasti-ZvezdniChasti\\MercedesChasti-ZvezdniChasti.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\nikif\\Desktop\\DataBase-master\\MercedesChasti-ZvezdniChasti\\MercedesChasti-ZvezdniChasti.csproj",
+        "projectUniqueName": "C:\\Users\\nikif\\Desktop\\Zvezdni Chasti DI\\MercedesChasti-ZvezdniChasti\\MercedesChasti-ZvezdniChasti.csproj",
         "projectName": "MercedesChasti-ZvezdniChasti",
-        "projectPath": "C:\\Users\\nikif\\Desktop\\DataBase-master\\MercedesChasti-ZvezdniChasti\\MercedesChasti-ZvezdniChasti.csproj",
+        "projectPath": "C:\\Users\\nikif\\Desktop\\Zvezdni Chasti DI\\MercedesChasti-ZvezdniChasti\\MercedesChasti-ZvezdniChasti.csproj",
         "packagesPath": "C:\\Users\\nikif\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\nikif\\Desktop\\DataBase-master\\MercedesChasti-ZvezdniChasti\\obj\\",
+        "outputPath": "C:\\Users\\nikif\\Desktop\\Zvezdni Chasti DI\\MercedesChasti-ZvezdniChasti\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
