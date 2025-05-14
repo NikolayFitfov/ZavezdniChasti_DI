@@ -16,7 +16,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MercedesChasti-ZvezdniChasti")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5d3eb125c094bb5b80c7a9bde6f03968e50c3bcd")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+da288c1becdf1c1d4c0cf06de4a1b93672ee3b4f")]
 [assembly: System.Reflection.AssemblyProductAttribute("MercedesChasti-ZvezdniChasti")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MercedesChasti-ZvezdniChasti")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

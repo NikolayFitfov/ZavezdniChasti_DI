@@ -3,20 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\nikif\\Desktop\\Zvezdni Chasti DI\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1D64F85C-49E2-4226-90EC-3BDE3763D7B5}|MercedesChasti-ZvezdniChasti\\MercedesChasti-ZvezdniChasti.csproj|c:\\users\\nikif\\desktop\\zvezdni chasti di\\mercedeschasti-zvezdnichasti\\areas\\identity\\pages\\account\\logout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{1D64F85C-49E2-4226-90EC-3BDE3763D7B5}|MercedesChasti-ZvezdniChasti\\MercedesChasti-ZvezdniChasti.csproj|solutionrelative:mercedeschasti-zvezdnichasti\\areas\\identity\\pages\\account\\logout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{1D64F85C-49E2-4226-90EC-3BDE3763D7B5}|MercedesChasti-ZvezdniChasti\\MercedesChasti-ZvezdniChasti.csproj|c:\\users\\nikif\\desktop\\zvezdni chasti di\\mercedeschasti-zvezdnichasti\\controllers\\partscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D64F85C-49E2-4226-90EC-3BDE3763D7B5}|MercedesChasti-ZvezdniChasti\\MercedesChasti-ZvezdniChasti.csproj|solutionrelative:mercedeschasti-zvezdnichasti\\controllers\\partscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1D64F85C-49E2-4226-90EC-3BDE3763D7B5}|MercedesChasti-ZvezdniChasti\\MercedesChasti-ZvezdniChasti.csproj|c:\\users\\nikif\\desktop\\zvezdni chasti di\\mercedeschasti-zvezdnichasti\\areas\\identity\\pages\\account\\logout.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1D64F85C-49E2-4226-90EC-3BDE3763D7B5}|MercedesChasti-ZvezdniChasti\\MercedesChasti-ZvezdniChasti.csproj|solutionrelative:mercedeschasti-zvezdnichasti\\areas\\identity\\pages\\account\\logout.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1D64F85C-49E2-4226-90EC-3BDE3763D7B5}|MercedesChasti-ZvezdniChasti\\MercedesChasti-ZvezdniChasti.csproj|c:\\users\\nikif\\desktop\\zvezdni chasti di\\mercedeschasti-zvezdnichasti\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{1D64F85C-49E2-4226-90EC-3BDE3763D7B5}|MercedesChasti-ZvezdniChasti\\MercedesChasti-ZvezdniChasti.csproj|solutionrelative:mercedeschasti-zvezdnichasti\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+      "AbsoluteMoniker": "D:0:0:{1D64F85C-49E2-4226-90EC-3BDE3763D7B5}|MercedesChasti-ZvezdniChasti\\MercedesChasti-ZvezdniChasti.csproj|c:\\users\\nikif\\desktop\\zvezdni chasti di\\mercedeschasti-zvezdnichasti\\views\\home\\contacts.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1D64F85C-49E2-4226-90EC-3BDE3763D7B5}|MercedesChasti-ZvezdniChasti\\MercedesChasti-ZvezdniChasti.csproj|solutionrelative:mercedeschasti-zvezdnichasti\\views\\home\\contacts.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1D64F85C-49E2-4226-90EC-3BDE3763D7B5}|MercedesChasti-ZvezdniChasti\\MercedesChasti-ZvezdniChasti.csproj|c:\\users\\nikif\\desktop\\zvezdni chasti di\\mercedeschasti-zvezdnichasti\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{1D64F85C-49E2-4226-90EC-3BDE3763D7B5}|MercedesChasti-ZvezdniChasti\\MercedesChasti-ZvezdniChasti.csproj|solutionrelative:mercedeschasti-zvezdnichasti\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D64F85C-49E2-4226-90EC-3BDE3763D7B5}|MercedesChasti-ZvezdniChasti\\MercedesChasti-ZvezdniChasti.csproj|c:\\users\\nikif\\desktop\\zvezdni chasti di\\mercedeschasti-zvezdnichasti\\views\\home\\blog.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1D64F85C-49E2-4226-90EC-3BDE3763D7B5}|MercedesChasti-ZvezdniChasti\\MercedesChasti-ZvezdniChasti.csproj|solutionrelative:mercedeschasti-zvezdnichasti\\views\\home\\blog.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D64F85C-49E2-4226-90EC-3BDE3763D7B5}|MercedesChasti-ZvezdniChasti\\MercedesChasti-ZvezdniChasti.csproj|c:\\users\\nikif\\desktop\\zvezdni chasti di\\mercedeschasti-zvezdnichasti\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1D64F85C-49E2-4226-90EC-3BDE3763D7B5}|MercedesChasti-ZvezdniChasti\\MercedesChasti-ZvezdniChasti.csproj|solutionrelative:mercedeschasti-zvezdnichasti\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1D64F85C-49E2-4226-90EC-3BDE3763D7B5}|MercedesChasti-ZvezdniChasti\\MercedesChasti-ZvezdniChasti.csproj|c:\\users\\nikif\\desktop\\zvezdni chasti di\\mercedeschasti-zvezdnichasti\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -25,22 +29,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{1D64F85C-49E2-4226-90EC-3BDE3763D7B5}|MercedesChasti-ZvezdniChasti\\MercedesChasti-ZvezdniChasti.csproj|c:\\users\\nikif\\desktop\\zvezdni chasti di\\mercedeschasti-zvezdnichasti\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
       "RelativeMoniker": "D:0:0:{1D64F85C-49E2-4226-90EC-3BDE3763D7B5}|MercedesChasti-ZvezdniChasti\\MercedesChasti-ZvezdniChasti.csproj|solutionrelative:mercedeschasti-zvezdnichasti\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1D64F85C-49E2-4226-90EC-3BDE3763D7B5}|MercedesChasti-ZvezdniChasti\\MercedesChasti-ZvezdniChasti.csproj|c:\\users\\nikif\\desktop\\zvezdni chasti di\\mercedeschasti-zvezdnichasti\\wwwroot\\html\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{1D64F85C-49E2-4226-90EC-3BDE3763D7B5}|MercedesChasti-ZvezdniChasti\\MercedesChasti-ZvezdniChasti.csproj|solutionrelative:mercedeschasti-zvezdnichasti\\wwwroot\\html\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1D64F85C-49E2-4226-90EC-3BDE3763D7B5}|MercedesChasti-ZvezdniChasti\\MercedesChasti-ZvezdniChasti.csproj|c:\\users\\nikif\\desktop\\zvezdni chasti di\\mercedeschasti-zvezdnichasti\\wwwroot\\html\\products.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{1D64F85C-49E2-4226-90EC-3BDE3763D7B5}|MercedesChasti-ZvezdniChasti\\MercedesChasti-ZvezdniChasti.csproj|solutionrelative:mercedeschasti-zvezdnichasti\\wwwroot\\html\\products.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1D64F85C-49E2-4226-90EC-3BDE3763D7B5}|MercedesChasti-ZvezdniChasti\\MercedesChasti-ZvezdniChasti.csproj|c:\\users\\nikif\\desktop\\zvezdni chasti di\\mercedeschasti-zvezdnichasti\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1D64F85C-49E2-4226-90EC-3BDE3763D7B5}|MercedesChasti-ZvezdniChasti\\MercedesChasti-ZvezdniChasti.csproj|solutionrelative:mercedeschasti-zvezdnichasti\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1D64F85C-49E2-4226-90EC-3BDE3763D7B5}|MercedesChasti-ZvezdniChasti\\MercedesChasti-ZvezdniChasti.csproj|c:\\users\\nikif\\desktop\\zvezdni chasti di\\mercedeschasti-zvezdnichasti\\controllers\\partscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1D64F85C-49E2-4226-90EC-3BDE3763D7B5}|MercedesChasti-ZvezdniChasti\\MercedesChasti-ZvezdniChasti.csproj|solutionrelative:mercedeschasti-zvezdnichasti\\controllers\\partscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\nikif\\Desktop\\\u041F\u0440\u043E\u0435\u043A\u0442\\Css\\index.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
@@ -57,139 +45,108 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ScaffoldingReadMe.txt",
-              "DocumentMoniker": "C:\\Users\\nikif\\Desktop\\Zvezdni Chasti DI\\MercedesChasti-ZvezdniChasti\\ScaffoldingReadMe.txt",
-              "RelativeDocumentMoniker": "MercedesChasti-ZvezdniChasti\\ScaffoldingReadMe.txt",
-              "ToolTip": "C:\\Users\\nikif\\Desktop\\Zvezdni Chasti DI\\MercedesChasti-ZvezdniChasti\\ScaffoldingReadMe.txt",
-              "RelativeToolTip": "MercedesChasti-ZvezdniChasti\\ScaffoldingReadMe.txt",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
-              "WhenOpened": "2025-04-29T07:29:02.361Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Logout.cshtml",
-              "DocumentMoniker": "C:\\Users\\nikif\\Desktop\\Zvezdni Chasti DI\\MercedesChasti-ZvezdniChasti\\Areas\\Identity\\Pages\\Account\\Logout.cshtml",
-              "RelativeDocumentMoniker": "MercedesChasti-ZvezdniChasti\\Areas\\Identity\\Pages\\Account\\Logout.cshtml",
-              "ToolTip": "C:\\Users\\nikif\\Desktop\\Zvezdni Chasti DI\\MercedesChasti-ZvezdniChasti\\Areas\\Identity\\Pages\\Account\\Logout.cshtml",
-              "RelativeToolTip": "MercedesChasti-ZvezdniChasti\\Areas\\Identity\\Pages\\Account\\Logout.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-29T07:29:02.235Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Logout.cshtml.cs",
-              "DocumentMoniker": "C:\\Users\\nikif\\Desktop\\Zvezdni Chasti DI\\MercedesChasti-ZvezdniChasti\\Areas\\Identity\\Pages\\Account\\Logout.cshtml.cs",
-              "RelativeDocumentMoniker": "MercedesChasti-ZvezdniChasti\\Areas\\Identity\\Pages\\Account\\Logout.cshtml.cs",
-              "ToolTip": "C:\\Users\\nikif\\Desktop\\Zvezdni Chasti DI\\MercedesChasti-ZvezdniChasti\\Areas\\Identity\\Pages\\Account\\Logout.cshtml.cs",
-              "RelativeToolTip": "MercedesChasti-ZvezdniChasti\\Areas\\Identity\\Pages\\Account\\Logout.cshtml.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAYAAAApAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-29T07:29:01.602Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\nikif\\Desktop\\Zvezdni Chasti DI\\MercedesChasti-ZvezdniChasti\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "MercedesChasti-ZvezdniChasti\\Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\nikif\\Desktop\\Zvezdni Chasti DI\\MercedesChasti-ZvezdniChasti\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "MercedesChasti-ZvezdniChasti\\Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAD8AAAAAAAAAAAAEwFcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-28T08:33:45.414Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\nikif\\Desktop\\Zvezdni Chasti DI\\MercedesChasti-ZvezdniChasti\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "MercedesChasti-ZvezdniChasti\\Views\\Shared\\_Layout.cshtml",
               "ToolTip": "C:\\Users\\nikif\\Desktop\\Zvezdni Chasti DI\\MercedesChasti-ZvezdniChasti\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "MercedesChasti-ZvezdniChasti\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAABAAAAAAAAAAAAAUwB4AAABRAAAAAAAAAA==",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAADgAAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-16T06:23:49.682Z"
+              "WhenOpened": "2025-04-16T06:23:49.682Z",
+              "IsPinned": true,
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "index.html",
-              "DocumentMoniker": "C:\\Users\\nikif\\Desktop\\Zvezdni Chasti DI\\MercedesChasti-ZvezdniChasti\\wwwroot\\html\\index.html",
-              "RelativeDocumentMoniker": "MercedesChasti-ZvezdniChasti\\wwwroot\\html\\index.html",
-              "ToolTip": "C:\\Users\\nikif\\Desktop\\Zvezdni Chasti DI\\MercedesChasti-ZvezdniChasti\\wwwroot\\html\\index.html",
-              "RelativeToolTip": "MercedesChasti-ZvezdniChasti\\wwwroot\\html\\index.html",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABoAAAAVAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2025-04-16T06:22:49.107Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Products.html",
-              "DocumentMoniker": "C:\\Users\\nikif\\Desktop\\Zvezdni Chasti DI\\MercedesChasti-ZvezdniChasti\\wwwroot\\html\\Products.html",
-              "RelativeDocumentMoniker": "MercedesChasti-ZvezdniChasti\\wwwroot\\html\\Products.html",
-              "ToolTip": "C:\\Users\\nikif\\Desktop\\Zvezdni Chasti DI\\MercedesChasti-ZvezdniChasti\\wwwroot\\html\\Products.html",
-              "RelativeToolTip": "MercedesChasti-ZvezdniChasti\\wwwroot\\html\\Products.html",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAHAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2025-04-16T06:16:40.025Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "OrdersController.cs",
-              "DocumentMoniker": "C:\\Users\\nikif\\Desktop\\Zvezdni Chasti DI\\MercedesChasti-ZvezdniChasti\\Controllers\\OrdersController.cs",
-              "RelativeDocumentMoniker": "MercedesChasti-ZvezdniChasti\\Controllers\\OrdersController.cs",
-              "ToolTip": "C:\\Users\\nikif\\Desktop\\Zvezdni Chasti DI\\MercedesChasti-ZvezdniChasti\\Controllers\\OrdersController.cs",
-              "RelativeToolTip": "MercedesChasti-ZvezdniChasti\\Controllers\\OrdersController.cs",
-              "ViewState": "AgIAAGIAAAAAAAAAAAAswHUAAABAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-14T08:38:45.13Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "site.css",
-              "DocumentMoniker": "C:\\Users\\nikif\\Desktop\\Zvezdni Chasti DI\\MercedesChasti-ZvezdniChasti\\wwwroot\\css\\site.css",
-              "RelativeDocumentMoniker": "MercedesChasti-ZvezdniChasti\\wwwroot\\css\\site.css",
-              "ToolTip": "C:\\Users\\nikif\\Desktop\\Zvezdni Chasti DI\\MercedesChasti-ZvezdniChasti\\wwwroot\\css\\site.css",
-              "RelativeToolTip": "MercedesChasti-ZvezdniChasti\\wwwroot\\css\\site.css",
-              "ViewState": "AgIAAD8AAAAAAAAAAAAAAPQAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-03-25T08:32:27.152Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "index.css",
-              "DocumentMoniker": "C:\\Users\\nikif\\Desktop\\\u041F\u0440\u043E\u0435\u043A\u0442\\Css\\index.css",
-              "RelativeDocumentMoniker": "..\\\u041F\u0440\u043E\u0435\u043A\u0442\\Css\\index.css",
-              "ToolTip": "C:\\Users\\nikif\\Desktop\\\u041F\u0440\u043E\u0435\u043A\u0442\\Css\\index.css",
-              "RelativeToolTip": "..\\\u041F\u0440\u043E\u0435\u043A\u0442\\Css\\index.css",
-              "ViewState": "AgIAALkAAAAAAAAAAAAiwMIAAAAHAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-03-25T08:31:52.817Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 0,
               "Title": "PartsController.cs",
               "DocumentMoniker": "C:\\Users\\nikif\\Desktop\\Zvezdni Chasti DI\\MercedesChasti-ZvezdniChasti\\Controllers\\PartsController.cs",
               "RelativeDocumentMoniker": "MercedesChasti-ZvezdniChasti\\Controllers\\PartsController.cs",
               "ToolTip": "C:\\Users\\nikif\\Desktop\\Zvezdni Chasti DI\\MercedesChasti-ZvezdniChasti\\Controllers\\PartsController.cs",
               "RelativeToolTip": "MercedesChasti-ZvezdniChasti\\Controllers\\PartsController.cs",
-              "ViewState": "AgIAAEUAAAAAAAAAAAAAwFkAAAA1AAAAAAAAAA==",
+              "ViewState": "AgIAAIMAAAAAAAAAAAAvwGMAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-19T10:07:41.595Z"
+              "WhenOpened": "2025-05-14T07:44:34.48Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\nikif\\Desktop\\Zvezdni Chasti DI\\MercedesChasti-ZvezdniChasti\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "MercedesChasti-ZvezdniChasti\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\nikif\\Desktop\\Zvezdni Chasti DI\\MercedesChasti-ZvezdniChasti\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "MercedesChasti-ZvezdniChasti\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAswFAAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-13T08:15:13.125Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Contacts.cshtml",
+              "DocumentMoniker": "C:\\Users\\nikif\\Desktop\\Zvezdni Chasti DI\\MercedesChasti-ZvezdniChasti\\Views\\Home\\Contacts.cshtml",
+              "RelativeDocumentMoniker": "MercedesChasti-ZvezdniChasti\\Views\\Home\\Contacts.cshtml",
+              "ToolTip": "C:\\Users\\nikif\\Desktop\\Zvezdni Chasti DI\\MercedesChasti-ZvezdniChasti\\Views\\Home\\Contacts.cshtml",
+              "RelativeToolTip": "MercedesChasti-ZvezdniChasti\\Views\\Home\\Contacts.cshtml",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAABYAAABlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-13T07:55:42.635Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Blog.cshtml",
+              "DocumentMoniker": "C:\\Users\\nikif\\Desktop\\Zvezdni Chasti DI\\MercedesChasti-ZvezdniChasti\\Views\\Home\\Blog.cshtml",
+              "RelativeDocumentMoniker": "MercedesChasti-ZvezdniChasti\\Views\\Home\\Blog.cshtml",
+              "ToolTip": "C:\\Users\\nikif\\Desktop\\Zvezdni Chasti DI\\MercedesChasti-ZvezdniChasti\\Views\\Home\\Blog.cshtml",
+              "RelativeToolTip": "MercedesChasti-ZvezdniChasti\\Views\\Home\\Blog.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABUAAABhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-13T07:34:49.01Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "About.cshtml",
+              "DocumentMoniker": "C:\\Users\\nikif\\Desktop\\Zvezdni Chasti DI\\MercedesChasti-ZvezdniChasti\\Views\\Home\\About.cshtml",
+              "RelativeDocumentMoniker": "MercedesChasti-ZvezdniChasti\\Views\\Home\\About.cshtml",
+              "ToolTip": "C:\\Users\\nikif\\Desktop\\Zvezdni Chasti DI\\MercedesChasti-ZvezdniChasti\\Views\\Home\\About.cshtml",
+              "RelativeToolTip": "MercedesChasti-ZvezdniChasti\\Views\\Home\\About.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABUAAABlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-13T07:30:16.424Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\nikif\\Desktop\\Zvezdni Chasti DI\\MercedesChasti-ZvezdniChasti\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "MercedesChasti-ZvezdniChasti\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\nikif\\Desktop\\Zvezdni Chasti DI\\MercedesChasti-ZvezdniChasti\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "MercedesChasti-ZvezdniChasti\\wwwroot\\css\\site.css",
+              "ViewState": "AgIAAEICAAAAAAAAAAAAAJACAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-03-25T08:32:27.152Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "index.css",
+              "DocumentMoniker": "C:\\Users\\nikif\\Desktop\\\u041F\u0440\u043E\u0435\u043A\u0442\\Css\\index.css",
+              "RelativeDocumentMoniker": "..\\\u041F\u0440\u043E\u0435\u043A\u0442\\Css\\index.css",
+              "ToolTip": "C:\\Users\\nikif\\Desktop\\\u041F\u0440\u043E\u0435\u043A\u0442\\Css\\index.css",
+              "RelativeToolTip": "..\\\u041F\u0440\u043E\u0435\u043A\u0442\\Css\\index.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAMIAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-03-25T08:31:52.817Z",
+              "EditorCaption": ""
             }
           ]
         }

@@ -26,9 +26,16 @@
                         <li class="nav-item">
                             <a class="nav-link text-dark" asp-area="" asp-controller="Parts" asp-action="Index">Продукти</a>
                         </li>
-                        <li><a href="/html/about.html" class="nav-link text-dark" >За нас</a></li>
-                        <li><a href="/html/Contacts.html" class="nav-link text-dark">Контакти</a></li>
-                        <li><a href="//html/Blog.html" class="nav-link text-dark">Блог</a></li>
+                        <li class="nav-item">
+                            <a class="nav-link text-dark" asp-controller="Home" asp-action="About">За нас</a>
+                            </li>
+                        <li class="nav-item">
+                            <a class="nav-link text-dark" asp-controller="Home" asp-action="Contacts">Контакти</a>
+                            </li>
+                        <li class="nav-item">
+                            <a class="nav-link text-dark" asp-controller="Home" asp-action="Blog">
+                            Блог</a>
+                        </li>
                         <li class="nav-item">
                             <a class="nav-link text-dark" asp-area="" asp-controller="Categories" asp-action="Index">Въвеждане на категории</a>
                         </li>
@@ -47,9 +54,10 @@
         </main>
     </div>
 
-    <footer class="border-top footer text-muted">
+    <footer class="border-top footer text-white">
         <div class="container">
-            &copy; 2025 - MercedesChasti_ZvezdniChasti - <a asp-area="" asp-controller="Home" asp-action="Privacy">Privacy</a>
+            <p>&copy; 2025 Авточасти за Мерцедес. Всички права запазени.</p>
+            @* &copy; 2025 - MercedesChasti_ZvezdniChasti - <a asp-area="" asp-controller="Home" asp-action="Privacy">Privacy</a> *@
         </div>
     </footer>
     <script src="~/lib/jquery/dist/jquery.min.js"></script>

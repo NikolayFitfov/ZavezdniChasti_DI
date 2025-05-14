@@ -10,7 +10,7 @@ using Microsoft.AspNetCore.Authorization;
 
 namespace MercedesChasti_ZvezdniChasti.Controllers
 {
-    [Authorize]
+    [Authorize(Roles = "Admin")]
     public class PartsController : Controller
     {
         private readonly ApplicationDbContext _context;

@@ -1,0 +1,59 @@
+﻿@* 
+@{
+    ViewData["Title"] = "Contacts";
+}
+
+<h1>Contacts</h1> *@
+<!DOCTYPE html>
+<html lang="bg">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Контакти | Авточасти за Мерцедес</title>
+    <link href="~css/site.css" type="text/css" rel="stylesheet" />
+</head>
+<body>
+
+    <header>
+        <div class="container">
+
+
+
+            <div id="Logo">
+                <a asp-action="Index" asp-controller="Home"><img src="~/Pictures/Mercedes.jpg" /></a>
+            </div>
+        </div>
+    </header>
+
+    <section class="contact">
+        <h2>Контакти</h2>
+        <p>Можете да се свържете с нас на следните данни:</p>
+        <ul>
+            <li>Телефон: +359 123 456 789</li>
+            <li>Имейл: info@mercedesparts.bg</li>
+            <li>Адрес: ул. Авточасти 123, София, България</li>
+        </ul>
+
+        <h3>Свържете се с нас чрез формата</h3>
+        <form action="#" method="get">
+            <label for="name">Вашето име:</label>
+            <input type="text" id="name" name="name" required>
+
+            <label for="email">Вашият имейл:</label>
+            <input type="email" id="email" name="email" required>
+
+            <label for="message">Вашето съобщение:</label>
+            <textarea id="message" name="message" rows="4" required></textarea>
+
+            <button type="submit">Изпрати</button>
+        </form>
+    </section>
+
+    @* <footer>
+        <p>&copy; 2024 Авточасти за Мерцедес. Всички права запазени.</p>
+    </footer> *@
+
+</body>
+</html>
+
+

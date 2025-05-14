@@ -1156,3 +1156,4 @@ C:\Users\nikif\Desktop\Zvezdni Chasti DI\MercedesChasti-ZvezdniChasti\obj\Debug\
 C:\Users\nikif\Desktop\Zvezdni Chasti DI\MercedesChasti-ZvezdniChasti\obj\Debug\net8.0\MercedesChasti-ZvezdniChasti.pdb
 C:\Users\nikif\Desktop\Zvezdni Chasti DI\MercedesChasti-ZvezdniChasti\obj\Debug\net8.0\MercedesChasti-ZvezdniChasti.genruntimeconfig.cache
 C:\Users\nikif\Desktop\Zvezdni Chasti DI\MercedesChasti-ZvezdniChasti\obj\Debug\net8.0\ref\MercedesChasti-ZvezdniChasti.dll
+C:\Users\nikif\Desktop\Zvezdni Chasti DI\MercedesChasti-ZvezdniChasti\bin\Debug\net8.0\appsettings.Development - Copy.json

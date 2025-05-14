@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "BngctV4pR9VdrzOA81DFFfcUCZS7KL05uol3V8QaVmQ=",
+  "Hash": "F8VMyyoSZsvuZ1K6Sc9rAbYC3qCG0effGHLw95VWKfU=",
   "Source": "MercedesChasti-ZvezdniChasti",
   "BasePath": "_content/MercedesChasti-ZvezdniChasti",
   "Mode": "Default",
@@ -1231,6 +1231,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\favicon.ico"
+    },
+    {
+      "Identity": "C:\\Users\\nikif\\Desktop\\Zvezdni Chasti DI\\MercedesChasti-ZvezdniChasti\\wwwroot\\html\\about - Copy.html",
+      "SourceId": "MercedesChasti-ZvezdniChasti",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\nikif\\Desktop\\Zvezdni Chasti DI\\MercedesChasti-ZvezdniChasti\\wwwroot\\",
+      "BasePath": "_content/MercedesChasti-ZvezdniChasti",
+      "RelativePath": "html/about - Copy.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\html\\about - Copy.html"
     },
     {
       "Identity": "C:\\Users\\nikif\\Desktop\\Zvezdni Chasti DI\\MercedesChasti-ZvezdniChasti\\wwwroot\\html\\about.html",
